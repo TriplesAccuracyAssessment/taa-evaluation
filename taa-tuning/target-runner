@@ -19,7 +19,7 @@
 EXE=~/bin/taa-runner
 
 # extra arguments passed to the target algorithm
-FIXED_PARAMS="--wklabels ./resources/wikidata-properties-label.csv --pyPath /usr/local/bin/python3 --mPath /Users/jenny/bin/"
+FIXED_PARAMS="--wklabels ./resources/wikidata-properties-label.csv --pyPath /usr/local/bin/python2 --mPath /Users/jenny/bin/"
 
 CONFIG_ID=$1
 INSTANCE_ID=$2
